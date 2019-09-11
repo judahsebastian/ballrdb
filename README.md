@@ -10,7 +10,7 @@ This version does not include Redux
 
 For the frontend, I used HTML, CSS, JS and handlebars (for templating). On the backend I have node and express, as well as MySQL for the database. I used the NBA API to fetch player data for 2018-2019, then stored it MySQl database. Using modified select statements, player and team data is scanned to find the top 5 performers in key categories. General information for each team and player is displayed as well.
 
-### Coming Soon
+### Future updates
 
 I will be implementing web-scraping to ensure that the data presented on the site is always current, and implementing React to handle front-end rendering and requests.
 
